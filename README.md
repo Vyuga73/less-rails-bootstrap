@@ -1,4 +1,4 @@
-# Less Rails Bootstrap 3.0.0-rc1 [![Build Status](https://travis-ci.org/metaskills/less-rails-bootstrap.png?branch=3.0.0-rc1)](https://travis-ci.org/metaskills/less-rails-bootstrap)
+# Less Rails Bootstrap 3.0.0-wip [![Build Status](https://travis-ci.org/metaskills/less-rails-bootstrap.png?branch=3.0.0-rc1)](https://travis-ci.org/metaskills/less-rails-bootstrap)
 
 This fork is using
 [3.0.0-wip](https://github.com/twbs/bootstrap/tree/3.0.0-wip) [Twitter Bootstrap](https://github.com/twbs/bootstrap) branch. You can read about new bootstrap version [here](https://github.com/twitter/bootstrap/pull/6342).
